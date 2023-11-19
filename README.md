@@ -59,9 +59,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+Before moving any axis, it's common to home the printer. This involves moving the printhead to a known starting position, often the origin (X=0, Y=0, Z=0).Set the units to millimeters if they're not already set. This is usually done using the G21 command in G-code.Move the printhead to the starting position of your print using G-codeReset the extruder position to zero using the G92 command. This isn't always necessary, depending on your printer firmware.Execute a series of G1 commands to move the printhead along the X-axis to create the desired shape.If you're printing, you'll also include commands to extrude filament. If printing multiple layers, use G1 to move the Z-axis to the next layer position.After the print is complete, it's common to home the printer again using G28.
 
-### Name: 
-### Register Number:
+### Name:Murali Krishna.s 
+### Register Number:23012882
 
-## Result: 
+## Result:The output was verified successfully
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
+## Link:
+https://3dp-dei.vlabs.ac.in/exp/simulation-cartesian-system/simulation.html
