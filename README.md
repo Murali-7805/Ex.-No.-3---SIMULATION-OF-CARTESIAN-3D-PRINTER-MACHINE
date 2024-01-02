@@ -48,18 +48,17 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![image](https://github.com/Murali-7805/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151489752/363b26f4-3271-4307-8aaf-6f86f9b94b9b)
+![image](https://github.com/Murali-7805/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151489752/38268dc7-e5e4-43bf-a46d-b55dfad19fac)
+![image](https://github.com/Murali-7805/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151489752/4e373cce-021f-45fb-8945-e4f6894e83a8)
+![image](https://github.com/Murali-7805/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151489752/369f163b-c71d-47f7-a78c-1ec9a9cf6ea9)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-Before moving any axis, it's common to home the printer. This involves moving the printhead to a known starting position, often the origin (X=0, Y=0, Z=0).Set the units to millimeters if they're not already set. This is usually done using the G21 command in G-code.Move the printhead to the starting position of your print using G-codeReset the extruder position to zero using the G92 command. This isn't always necessary, depending on your printer firmware.Execute a series of G1 commands to move the printhead along the X-axis to create the desired shape.If you're printing, you'll also include commands to extrude filament. If printing multiple layers, use G1 to move the Z-axis to the next layer position.After the print is complete, it's common to home the printer again using G28.
+![image](https://github.com/Murali-7805/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151489752/b12e20fb-c328-4a80-ba0d-80c2b5f9ef16)
+
 
 ### Name:Murali Krishna.s 
 ### Register Number:23012882
